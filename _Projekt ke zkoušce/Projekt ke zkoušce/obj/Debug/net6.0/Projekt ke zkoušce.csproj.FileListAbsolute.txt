@@ -1,0 +1,15 @@
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\bin\Debug\net6.0\Projekt ke zkoušce.exe
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\bin\Debug\net6.0\Projekt ke zkoušce.deps.json
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\bin\Debug\net6.0\Projekt ke zkoušce.runtimeconfig.json
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\bin\Debug\net6.0\Projekt ke zkoušce.dll
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\bin\Debug\net6.0\Projekt ke zkoušce.pdb
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\obj\Debug\net6.0\Projekt ke zkoušce.csproj.AssemblyReference.cache
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\obj\Debug\net6.0\Projekt ke zkoušce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\obj\Debug\net6.0\Projekt ke zkoušce.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\obj\Debug\net6.0\Projekt ke zkoušce.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\obj\Debug\net6.0\Projekt ke zkoušce.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\obj\Debug\net6.0\Projekt ke zkoušce.dll
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\obj\Debug\net6.0\refint\Projekt ke zkoušce.dll
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\obj\Debug\net6.0\Projekt ke zkoušce.pdb
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\obj\Debug\net6.0\Projekt ke zkoušce.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\ITnetwork\Projekt ke zkoušce\Projekt ke zkoušce\obj\Debug\net6.0\ref\Projekt ke zkoušce.dll
